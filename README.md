@@ -157,15 +157,6 @@ Built a responsive, component-based frontend with dynamic state management and s
 
 ---
 
-## 🌐 Languages
-
-| Language | Proficiency |
-|---|---|
-| English | Fluent |
-| Sinhala | Native |
-
----
-
 <div align="center">
 
 *Open to internship opportunities in AI/ML Engineering and Data Science.*
