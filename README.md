@@ -152,7 +152,7 @@ Built a responsive, component-based frontend with dynamic state management and s
 - 📡 **Media & Technical Member** — HackX & HackX Jr (2023–Present)
 - 🎤 **Technical Crew** — TEDxUoK
 - 📢 **PR Coordinator** — EvolveX 2.0, Rotract Club UoK
-- 🐍 **HackerRank Python** — 3-Star Silver Badge
+- 🐍 **HackerRank Python** — 2-Star Bronze Badge
 - 📜 **Certifications** — Linear Algebra (DeepLearning.AI) · Python for Data Science & AI (Coursera) · DevOps Foundation (learnFi Academy)
 
 ---
