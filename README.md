@@ -3,6 +3,8 @@
 ![Banner](https://raw.githubusercontent.com/heyiamheshan/heyiamheshan/main/banner.svg)
 
 
+
+
 # Heshan Pramuditha Dharmasena
 
 **AI & Machine Learning Developer**
@@ -168,6 +170,7 @@ Built a responsive, component-based frontend with dynamic state management and s
 
 
 
+
 <div align="center">
 
 ![Banner](https://raw.githubusercontent.com/heyiamheshan/heyiamheshan/main/banner.svg)
@@ -177,3 +180,4 @@ Built a responsive, component-based frontend with dynamic state management and s
 *Feel free to reach out — let's build something meaningful.*
 
 </div>
+
