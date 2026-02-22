@@ -114,7 +114,7 @@ Built a responsive, component-based frontend with dynamic state management and s
 - **Media & Technical Member** — HackX & HackX Jr (2023–Present)
 - **Technical Crew** — TEDxUoK
 - **PR Coordinator** — EvolveX 2.0, Rotract Club UoK
-- **Provincial Competition Winner** — Violin
+
 
 ---
 
