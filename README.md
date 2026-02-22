@@ -84,7 +84,6 @@ My work spans computer vision pipelines, retrieval-augmented generation (RAG) sy
 
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/heyiamheshan/heyiamheshan/main/banner.svg)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamheshan&layout=donut&theme=default&hide_border=true&title_color=1A56DB&text_color=1E293B&bg_color=ffffff&langs_count=6)
