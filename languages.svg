@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Space+Grotesk:wght@500;700&amp;display=swap');
+      .title { font: 700 13px 'JetBrains Mono', monospace; fill: #e2e8f0; letter-spacing: 0.08em; }
+      .lang-name { font: 600 12px 'JetBrains Mono', monospace; fill: #cbd5e1; }
+      .pct { font: 700 11px 'JetBrains Mono', monospace; fill: #94a3b8; }
+      .desc { font: 400 10px 'JetBrains Mono', monospace; fill: #64748b; }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="py" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#6366f1"/>
+    </linearGradient>
+    <linearGradient id="js" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#f97316"/>
+    </linearGradient>
+    <linearGradient id="cpp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#0891b2"/>
+    </linearGradient>
+    <linearGradient id="java" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f43f5e"/>
+      <stop offset="100%" style="stop-color:#ec4899"/>
+    </linearGradient>
+    <linearGradient id="html" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+    <clipPath id="py-clip"><rect x="0" y="0" width="0" height="6" rx="3"/></clipPath>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="480" height="280" rx="12" fill="url(#bg)" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="480" height="2" rx="1" fill="url(#py)" opacity="0.6"/>
+
+  <!-- Header -->
+  <text x="20" y="32" class="title">// MOST USED LANGUAGES</text>
+  <text x="20" y="48" class="desc">based on public repositories · AI/ML · full-stack · systems</text>
+
+  <!-- Divider -->
+  <rect x="20" y="58" width="440" height="1" fill="#21262d"/>
+
+  <!-- === PYTHON === -->
+  <circle cx="32" cy="82" r="5" fill="#3b82f6" filter="url(#glow)"/>
+  <text x="45" y="86" class="lang-name">Python</text>
+  <text x="390" y="86" class="pct">55%</text>
+  <!-- Track -->
+  <rect x="45" y="92" width="380" height="6" rx="3" fill="#1e2938"/>
+  <!-- Bar with animation -->
+  <rect x="45" y="92" width="0" height="6" rx="3" fill="url(#py)">
+    <animate attributeName="width" from="0" to="209" dur="1s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+  <text x="45" y="109" class="desc">AI/ML · RAG Systems · FastAPI backends</text>
+
+  <!-- === JAVASCRIPT === -->
+  <circle cx="32" cy="128" r="5" fill="#f59e0b" filter="url(#glow)"/>
+  <text x="45" y="132" class="lang-name">JavaScript</text>
+  <text x="390" y="132" class="pct">35%</text>
+  <rect x="45" y="138" width="380" height="6" rx="3" fill="#1e2938"/>
+  <rect x="45" y="138" width="0" height="6" rx="3" fill="url(#js)">
+    <animate attributeName="width" from="0" to="133" dur="1s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+  <text x="45" y="155" class="desc">React frontends · Node.js · Web apps</text>
+
+  <!-- === C++ === -->
+  <circle cx="32" cy="174" r="5" fill="#06b6d4" filter="url(#glow)"/>
+  <text x="45" y="178" class="lang-name">C++</text>
+  <text x="390" y="178" class="pct">5%</text>
+  <rect x="45" y="184" width="380" height="6" rx="3" fill="#1e2938"/>
+  <rect x="45" y="184" width="0" height="6" rx="3" fill="url(#cpp)">
+    <animate attributeName="width" from="0" to="19" dur="1s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+  <text x="45" y="201" class="desc">Game engines · Embedded systems</text>
+
+  <!-- === JAVA === -->
+  <circle cx="32" cy="220" r="5" fill="#f43f5e" filter="url(#glow)"/>
+  <text x="45" y="224" class="lang-name">Java</text>
+  <text x="390" y="224" class="pct">3%</text>
+  <rect x="45" y="230" width="380" height="6" rx="3" fill="#1e2938"/>
+  <rect x="45" y="230" width="0" height="6" rx="3" fill="url(#java)">
+    <animate attributeName="width" from="0" to="11" dur="1s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+
+  <!-- === HTML/CSS === -->
+  <circle cx="32" cy="256" r="5" fill="#10b981" filter="url(#glow)"/>
+  <text x="45" y="260" class="lang-name">HTML / CSS</text>
+  <text x="390" y="260" class="pct">2%</text>
+  <rect x="45" y="266" width="380" height="6" rx="3" fill="#1e2938"/>
+  <rect x="45" y="266" width="0" height="6" rx="3" fill="url(#html)">
+    <animate attributeName="width" from="0" to="8" dur="1s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</svg>
