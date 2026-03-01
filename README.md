@@ -119,17 +119,7 @@ Built a responsive, component-based frontend with dynamic state management and s
 
 ---
 
-## 📚 Currently Learning
 
-```
-├── 🧠  Neural Network Architectures  →  Transformers, CNNs, RNNs
-├── 📐  Deep Learning Mathematics     →  Backpropagation, Optimization Theory
-├── 🔢  Advanced Linear Algebra       →  Eigendecomposition, SVD for ML
-├── 🚀  MLOps                         →  Model Deployment & CI/CD Pipelines
-└── 📊  Advanced Statistics           →  Bayesian Inference, Probabilistic Models
-```
-
----
 
 ## 📊 GitHub Stats
 
@@ -143,17 +133,7 @@ Built a responsive, component-based frontend with dynamic state management and s
 
 </div>
 
----
 
-## 🏆 Achievements & Activities
-
-- 🥈 **4th Place** — JuniorHack 7.0 Pre-Hack Challenge | SESA, University of Kelaniya
-- 📡 **Media & Technical Member** — HackX & HackX Jr (2023–Present)
-- 📢 **PR Coordinator** — EvolveX 2.0, Rotract Club UoK
-- 🐍 **HackerRank Python** — 3-Star Silver Badge
-- 📜 **Certifications** — Linear Algebra (DeepLearning.AI) · Python for Data Science & AI (Coursera) · DevOps Foundation (learnFi Academy)
-
----
 
 
 
