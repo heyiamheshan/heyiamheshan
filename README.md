@@ -72,16 +72,14 @@ My work spans computer vision pipelines, retrieval-augmented generation (RAG) sy
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamheshan&layout=donut&theme=default&hide_border=true&title_color=1A56DB&text_color=1E293B&bg_color=ffffff&langs_count=6)
-
-</div>
-
----
-
+<div align="center">
+<table border="0">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamheshan&layout=donut&theme=default&hide_border=true&title_color=1A56DB&text_color=1E293B&bg_color=ffffff&langs_count=6" alt="Top Languages" />
+</td>
+<td width="50%">
+  
 ## 🚀 Featured Projects
 
 ### [SOLIX.AI](https://github.com/heyiamheshan/Solix.git) — AI-Powered Solar Energy Feasibility System
