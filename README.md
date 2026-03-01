@@ -70,15 +70,7 @@ My work spans computer vision pipelines, retrieval-augmented generation (RAG) sy
 
 ---
 
-## 💻 Most Used Languages
 
-<div align="center">
-<table border="0">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamheshan&layout=donut&theme=default&hide_border=true&title_color=1A56DB&text_color=1E293B&bg_color=ffffff&langs_count=6" alt="Top Languages" />
-</td>
-<td width="50%">
   
 ## 🚀 Featured Projects
 
