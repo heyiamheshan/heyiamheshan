@@ -158,19 +158,6 @@
 
 </div>
 
----
-
-### 🏆 &nbsp;Highlights
-
-| | |
-|:---:|---|
-| 🥇 | **4th Place** — JuniorHack 7.0 Pre-Hack Challenge · SESA, University of Kelaniya |
-| 📹 | **Media & Tech Lead** — HackX & HackX Jr · Live production with NDI + OBS |
-| 🎮 | **PR Coordinator** — EvolveX 2.0 · Rotaract Club UoK (2025–Present) |
-| 🎤 | **Technical Crew** — TEDxUoK (2025–Present) |
-| 🎻 | **Provincial Violin Competition Winner** · FL Studio music production |
-
----
 
 <div align="center">
 
