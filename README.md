@@ -35,10 +35,8 @@
 - 🧠 &nbsp;Building end-to-end AI systems from scratch — CV to RAG to cloud
 - 🔭 &nbsp;Currently working on an **MLOps framework** with full CI/CD on AWS
 - 🌏 &nbsp;Based in Sri Lanka · Open to **AI/ML Internship** opportunities
-- 🎻 &nbsp;Provincial Violin Competition Winner · Badminton @ University level
 - 💬 &nbsp;Ask me about **LLMs, Computer Vision, or RAG pipelines**
-- ⚡ &nbsp;Fun fact: I deploy models before most people finish their coffee
-
+- ⚡ &nbsp;Fun fact: while (!satisfied) { keepMomentum(); }
 <br clear="right"/>
 
 ---
@@ -171,19 +169,6 @@ React.js       ████████░░░░
 
 </div>
 
----
-
-### 🏆 &nbsp;Highlights
-
-| | |
-|---|---|
-| 🥇 | **4th Place** — JuniorHack 7.0 Pre-Hack Challenge · SESA, University of Kelaniya |
-| 📹 | **Media & Tech Lead** — HackX & HackX Jr · End-to-end live production with NDI + OBS |
-| 🎮 | **PR Coordinator** — EvolveX 2.0 · Rotaract Club UoK (2025–Present) |
-| 🎤 | **Technical Crew** — TEDxUoK (2025–Present) |
-| 🎻 | **Provincial Violin Competition Winner** · Digital music production (FL Studio) |
-
----
 
 <div align="center">
 
