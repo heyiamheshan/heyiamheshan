@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" width="40%" src="https://github.com/heyiamheshan/heyiamheshan/edit/main/1721227819464.png#:~:text=1721227819464.pngusername=HeshanPramuditha&show_icons=true&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=12" />
+<img align="right" width="42%" src="https://github.com/HeshanPramuditha/HeshanPramuditha/raw/main/banner.png" style="border-radius:12px; margin-left:20px; margin-bottom:10px;" />
 
 ### 👤 &nbsp;About Me
 
@@ -35,6 +35,8 @@
 - 🌏 &nbsp;Based in **Sri Lanka** · Open to **AI/ML Internships**
 - 💬 &nbsp;Ask me about **LLMs, Computer Vision, or RAG**
 - ⚡ &nbsp;while (!satisfied) { keepMomentum(); }
+
+<br/><br/><br/><br/><br/>
 
 <br clear="right"/>
 
@@ -147,16 +149,28 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HeshanPramuditha&show_icons=true&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=12&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanPramuditha&layout=compact&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_radius=12&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=12&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_radius=12&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=HeshanPramuditha&theme=tokyonight&hide_border=false&border=7aa2f7&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&border_radius=12" />
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&border=7aa2f7&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&border_radius=12" />
 
 </div>
 
+---
 
+### 🏆 &nbsp;Highlights
+
+| | |
+|:---:|---|
+| 🥇 | **4th Place** — JuniorHack 7.0 Pre-Hack Challenge · SESA, University of Kelaniya |
+| 📹 | **Media & Tech Lead** — HackX & HackX Jr · Live production with NDI + OBS |
+| 🎮 | **PR Coordinator** — EvolveX 2.0 · Rotaract Club UoK (2025–Present) |
+| 🎤 | **Technical Crew** — TEDxUoK (2025–Present) |
+| 🎻 | **Provincial Violin Competition Winner** · FL Studio music production |
+
+---
 
 <div align="center">
 
@@ -166,6 +180,6 @@
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HeshanPramuditha&color=7aa2f7&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 </div>
