@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-*3rd Year BSc (Hons) IT · AI & ML Specialization · University of Kelaniya · GPA 3.5/4.0*
+*3rd Year BSc (Hons) IT · AI & ML Specialization · University of Kelaniya*
 
 <br/>
 
@@ -33,10 +33,8 @@
 - 🧠 &nbsp;Building end-to-end AI systems — CV to RAG to cloud
 - 🔭 &nbsp;Currently working on a full **MLOps framework** on AWS
 - 🌏 &nbsp;Based in **Sri Lanka** · Open to **AI/ML Internships**
-- 🎻 &nbsp;Provincial Violin Competition Winner
-- 🏸 &nbsp;Badminton @ University Level
 - 💬 &nbsp;Ask me about **LLMs, Computer Vision, or RAG**
-- ⚡ &nbsp;I deploy models before most people finish their coffee
+- ⚡ &nbsp;while (!satisfied) { keepMomentum(); }
 
 <br clear="right"/>
 
@@ -158,19 +156,7 @@
 
 </div>
 
----
 
-### 🏆 &nbsp;Highlights
-
-| | |
-|:---:|---|
-| 🥇 | **4th Place** — JuniorHack 7.0 Pre-Hack Challenge · SESA, University of Kelaniya |
-| 📹 | **Media & Tech Lead** — HackX & HackX Jr · Live production with NDI + OBS |
-| 🎮 | **PR Coordinator** — EvolveX 2.0 · Rotaract Club UoK (2025–Present) |
-| 🎤 | **Technical Crew** — TEDxUoK (2025–Present) |
-| 🎻 | **Provincial Violin Competition Winner** · FL Studio music production |
-
----
 
 <div align="center">
 
