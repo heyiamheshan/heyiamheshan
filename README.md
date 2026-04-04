@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" width="42%" src="https://github.com/HeshanPramuditha/HeshanPramuditha/raw/main/banner.png" style="border-radius:12px; margin-left:20px; margin-bottom:10px;" />
+<img align="right" width="42%" src="https://github.com/HeshanPramuditha/HeshanPramuditha/raw/main/1721227819464.png" style="border-radius:12px; margin-left:20px; margin-bottom:10px;" />
 
 ### 👤 &nbsp;About Me
 
