@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/HeshanPramuditha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Heshan+Pramuditha;AI+%26+ML+Developer;Computer+Vision+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Heshan+Pramuditha+Dharmasena;AI+%26+ML+Developer;Computer+Vision+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br/><br/>
