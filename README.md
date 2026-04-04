@@ -147,13 +147,6 @@
 
 ### 📊 &nbsp;GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heyiamheshan&show_icons=true&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=12&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamheshan&layout=compact&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_radius=12&langs_count=8" />
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=heyiamheshan&theme=tokyonight&hide_border=false&border=7aa2f7&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&border_radius=12" />
 
 </div>
@@ -164,9 +157,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,50:dbeafe,100:e8f4fd&height=100&section=footer" width="100%"/>
 
 *"The best model is the one that ships."*
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=heyiamheshan&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 </div>
