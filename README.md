@@ -29,14 +29,14 @@
 ### 👤 &nbsp;About Me
 
 - 🧠 &nbsp;Building end-to-end AI systems — CV to RAG to cloud
+  <br>
 - 🔭 &nbsp;Currently working on a full **MLOps framework** on AWS
+  <br>
 - 🌏 &nbsp;Based in **Sri Lanka** · Open to **AI/ML Internships**
+  <br>
 - 💬 &nbsp;Ask me about **LLMs, Computer Vision, or RAG**
+  <br>
 - ⚡ &nbsp;while (!satisfied) { keepMomentum(); }
-
-<br/><br/><br/><br/><br/>
-
-<br clear="right"/>
 
 ---
 
