@@ -8,7 +8,7 @@
 
 # Heshan Pramuditha
 
-### `AI & Machine Learning Engineer`
+### `AI & Machine Learning Developer`
 
 <br>
 
