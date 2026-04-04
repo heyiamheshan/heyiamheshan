@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=HeshanPramuditha&show_icons=true&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=12" />
+<img align="right" width="40%" src="https://github.com/heyiamheshan/heyiamheshan/edit/main/README.md#:~:text=1721227819464.pngusername=HeshanPramuditha&show_icons=true&theme=tokyonight&hide_border=false&border_color=7aa2f7&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=12" />
 
 ### 👤 &nbsp;About Me
 
