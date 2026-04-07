@@ -93,7 +93,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**[→ View Repository](https://github.com/HeshanPramuditha)**
+**[→ View Repository]([https://github.com/HeshanPramuditha](https://github.com/heyiamheshan/Solix))**
 
 </td>
 <td width="50%" valign="top">
