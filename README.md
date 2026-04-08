@@ -110,7 +110,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=flat-square)
 
-**[→ View Repository](https://github.com/HeshanPramuditha)**
+**[→ View Repository](https://github.com/heyiamheshan/MedAgentSL)**
 
 </td>
 </tr>
