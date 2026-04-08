@@ -140,7 +140,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-**[→ View Repository](https://github.com/HeshanPramuditha)**
+**[→ View Repository](https://github.com/HeshanPramuditha/Tastio)**
 
 </td>
 </tr>
