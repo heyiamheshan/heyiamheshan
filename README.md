@@ -101,7 +101,7 @@
 </td>
 <td width="50%" valign="top">
 
-#### 🩺 MediAgent SL — *Voice Medical AI Assistant*
+#### 🩺 MedAgent SL — *Voice Medical AI Assistant*
 
 > Full **speech-in, speech-out** medical Q&A using **LLaMA-3 on Groq LPU** for sub-second responses. **Faster-Whisper** ASR + Edge-TTS — complete voice loop with near-zero latency.
 
