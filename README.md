@@ -126,7 +126,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**[→ View Repository](https://github.com/heyiamheshan/end-to-end-ml-framework)** 
+**[→ View Repository](https://github.com/heyiamheshan/Student-Performance-Predictor.git)** 
 
 </td>
 <td width="50%" valign="top">
