@@ -14,7 +14,7 @@
 
 
 
-*<B>3rd Year BSc (Hons) IT</B> · <B>AI & ML Specialization</B> ·<B> University of Kelaniya</B>*
+*<B>3rd Year BSc (Hons) IT</B> · <B>Data Science Specialization</B> ·<B> University of Kelaniya</B>*
 
 <br/>
 
