@@ -148,11 +148,7 @@
 
 ---
 
-### 📊 &nbsp;GitHub Stats
 
-<img width="70%" src="https://streak-stats.demolab.com?user=heyiamheshan&theme=tokyonight&hide_border=false&border=7aa2f7&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&border_radius=12" />
-
-</div>
 
 
 <div align="center">
