@@ -2,12 +2,11 @@
 
 # Hi there, I'm Heshan Pramuditha 👋
 
-### AI & ML Developer | Computer Vision | Voice AI | LLMs | RAG
+### 🏢 Innovation & R&D Intern @ Dialog Axiata PLC
 
 🎓 3rd Year BSc (Hons) Information Technology Undergraduate  
 🏛️ University of Kelaniya
 
-🏢 Innovation & R&D Intern @ Dialog Axiata PLC
 
 <br>
 
