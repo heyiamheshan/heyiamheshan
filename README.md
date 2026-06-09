@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/heshan-pramuditha-dharmasena-03814b33b/?skipRedirect=true)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
