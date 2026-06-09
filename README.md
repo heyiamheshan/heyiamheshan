@@ -3,20 +3,27 @@
 </div>
 <div align="center">
 <a href="https://github.com/HeshanPramuditha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Computer+Vision+%7C+Voice+AI+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Computer+Vision+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
 </a>
 <br/><br/>
-*<B>3rd Year BSc (Hons) Information Technology</B> · <B>University of Kelaniya</B>*
+*<B>3rd Year BSc (Hons) Information Technology</B> · <B>Data Science Specialization</B> ·<B> University of Kelaniya</B>*
 <br/>
-*<B>🏢 Innovation & R&D Intern @ Dialog Axiata PLC</B>*
-<br/><br/>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmheshanpramuditha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeshanPramuditha)
 </div>
 <br/>
-
----
+### 👤 &nbsp;About Me
+  &nbsp; Hi, I'm Heshan 😑
+- 🧠 &nbsp;Building end-to-end AI systems — CV to RAG to cloud
+  <br>
+- 🔭 &nbsp;Currently working on a full **MLOps framework** on AWS
+  <br>
+- 🌏 &nbsp;Based in **Sri Lanka** · Open to **AI/ML Internships**
+  <br>
+- 💬 &nbsp;Ask me about **LLMs, Computer Vision, or RAG**
+  <br>
+- ⚡ &nbsp;while (!satisfied) { keepMomentum(); } I need to update my GitHub readme
 
 ### 🧰 &nbsp;Tech Stack
 
