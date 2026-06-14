@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Heshan Pramuditha
+# Hi there, I'm Heshan 
 
 ### 🏢 Innovation & R&D Intern @ Dialog Axiata PLC
 
