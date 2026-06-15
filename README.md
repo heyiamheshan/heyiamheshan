@@ -2,10 +2,10 @@
 
 # Hi there, I'm Heshan 
 
-### 🏢 Innovation & R&D Intern @ Dialog Axiata PLC
+###  Innovation & R&D Intern @ Dialog Axiata PLC
 
-🎓 3rd Year BSc (Hons) Information Technology Undergraduate  
-🏛️ University of Kelaniya
+ 3rd Year BSc (Hons) Information Technology Undergraduate  
+ University of Kelaniya
 
 
 <br>
