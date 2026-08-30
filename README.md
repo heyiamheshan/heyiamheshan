@@ -24,7 +24,7 @@
 
 ## About Me
 
-Passionate AI and Machine Learning developer with a strong interest in **Computer Vision, Voice & Audio Processing, Large Language Models (LLMs),NLP,Agentic AI Systems and MLOps**.
+Passionate AI and Machine Learning developer with a strong interest in **Computer Vision, Voice AI,Gen AI,LLMs,NLP,Agentic AI Systems and MLOps**.
 
 Currently working as an **Innovation & R&D Intern at Dialog Axiata PLC**, building and exploring next-generation AI solutions. Experienced in developing end-to-end AI applications using **Python, PyTorch, LangChain, OpenCV, and modern AI frameworks**, with a focus on solving real-world problems through intelligent systems.
 
